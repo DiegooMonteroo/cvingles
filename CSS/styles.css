@@ -1,0 +1,110 @@
+/* Estilo para el encabezado personalizado */
+.custom-header {
+  background-color: #df1616;
+  width: 100%; /* Asegura que el encabezado cubra todo el ancho */
+}
+
+/* Estilo para el logo */
+.logo {
+  width: 40px; /* Ancho del logo */
+  height: 40px; /* Altura del logo */
+}
+
+/* Estilo para el texto con clase 'letra' */
+.letra {
+  font-size: 20px; /* Tamaño de fuente del texto */
+  color: rgb(16, 13, 13); /* Color del texto */
+  font-weight: bold; /* Texto en negrita */
+  text-align: center; /* Alineación centrada del texto */
+  margin-left: 10px; /* Margen izquierdo del texto */
+}
+
+/* Estilo para márgenes grandes y tamaño de fuente grande */
+.margen1 {
+  margin-left: 25px; /* Margen izquierdo */
+  margin-bottom: 100px; /* Margen inferior */
+  font-size: px; /* Tamaño de fuente grande */
+}
+
+/* Estilo para márgenes grandes y tamaño de fuente mediano */
+.margen2 {
+  margin-left: 25px; /* Margen izquierdo */
+  margin-bottom: 100px; /* Margen inferior */
+  font-size: 50px; /* Tamaño de fuente mediano */
+}
+
+/* Estilo para texto con clase 'letra2' */
+.letra2 {
+  margin-top: 10px; /* Margen superior */
+  font-size: 23px; /* Tamaño de fuente */
+  margin-left: 10px; /* Margen izquierdo */
+}
+
+/* Estilo para elementos con fondo rojo y texto en negrita */
+.rojo {
+  background-color: #df1616; /* Color de fondo rojo */
+  font-weight: bold; /* Texto en negrita */
+  color: aliceblue; /* Color del texto */
+  text-align: center;
+}
+
+/* Estilo para elementos con margen superior */
+.baja {
+  margin-top: 10px; /* Margen superior */
+}
+.letra3{
+  font-size: 30px; /* Tamaño de fuente */
+  margin-left: 5px; /* Margen izquierdo */
+  color: rgb(16, 13, 13); /* Color del texto */
+  font-weight: bold; /* Texto en negrita */
+  text-align: center; /* Alineación centrada del texto */
+  margin-top: 20px; /* Margen superior */
+}
+.pasear{
+  font-size: 28px; /* Tamaño de fuente */
+  margin-left: 5px; /* Margen izquierdo */
+  margin-top: 20px; /* Margen superior */
+}
+.BAJAR2{
+  font-size: 45px; /* Tamaño de fuente */
+  margin-top: 20px;
+}
+.letra5{
+  font-size: 60px; /* Tamaño de fuente */
+  color: blue; /* Color del texto */
+}
+.MARGEN11{
+  margin-left: 30px; /* Margen izquierdo */
+}
+.LETRA6{
+  margin-left: 10px;
+}
+row{
+  width: 100%;
+}
+.margen6{
+  margin-left: 200px; /* Margen izquierdo */
+}
+.azul{
+  background-color: #df6d16;
+}
+.negro{
+  background-color: black;
+  color: #f1f1f1;
+}
+.background-color{
+  width: 100%;
+}
+.color2{
+  color: #f1f1f1;
+}
+.carousel-item img {
+  max-width: 100%;
+  height: auto;
+  max-height: 400px; /* Ajusta este valor según tus necesidades */
+  object-fit: cover; /* Asegura que la imagen se ajuste bien dentro del contenedor */
+  margin: 0 auto; /* Centra la imagen dentro del carrusel */
+}
+.margen19{
+  margin-left: 25px;
+}
